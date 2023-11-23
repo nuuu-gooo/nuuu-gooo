@@ -3,4 +3,4 @@
 
 Currently, I'm diving deep into the world of React JS, adding the power of component-based architecture to my skill set. My GitHub repository is a living showcase of my learning curve, featuring projects that reflect my dedication to clean code, responsive design, and user-centric development. 🌐
 
-Join me as I explore the ever-evolving tech landscape, embracing challenges, and turning them into opportunities for growth. Let's code, collaborate, and create together! 🤝 #WebDevelopment 
+Join me as I explore the ever-evolving tech landscape, embracing challenges, and turning them into opportunities for growth. Let's code, collaborate, and create together! 🤝 
